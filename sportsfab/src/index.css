@@ -18,5 +18,31 @@ h3
 {
   font-family: 'Anton', sans-serif;
   font-weight: bold;
-  font-size: 5em;
+  text-shadow: 2px 2px #28282B;
+  color:#dad6d6;
+}
+
+.caro-item{
+  position:relative;
+}
+.caption-pos
+{
+  top:2%;
+  max-width:35%;
+  min-width:20%;
+  /* background-color:blue; */
+  position: absolute;
+  text-align: justify;
+}
+.left
+{
+  left:10%;
+}
+.right
+{
+  left:60%;
+}
+.center
+{
+  left:30%;
 }
